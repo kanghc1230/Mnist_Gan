@@ -1,4 +1,3 @@
-https://colab.research.google.com/github/kanghc1230/Mnist_Gan/blob/main/Mnist_GAN.ipynb
 
 # 적대적 생성 신경망GAN (Generative adversarial network)
 
