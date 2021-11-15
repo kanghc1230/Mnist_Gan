@@ -1,3 +1,5 @@
+https://colab.research.google.com/github/kanghc1230/Mnist_Gan/blob/main/Mnist_GAN.ipynb
+
 # 적대적 생성 신경망GAN (Generative adversarial network)
 
 GAN이라는 신경망은 2개의 신경망으로 구성되어 있다.. 판별자 신경망과 생성자 신경망으로 나뉜다.
